@@ -21,6 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
+* [x] Use a slidebar to adjust tip amount.
 * [x] Add a light/dark color theme to the settings view.
 * [x] Allow different language options.
 
