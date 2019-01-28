@@ -10,10 +10,10 @@ Time spent: **2.0** hours spent in total
 
 The following **required** functionality is complete:
 
-* [v] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [v] Settings page to change the default tip percentage.
+* [ ] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
@@ -21,14 +21,14 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [v] Add a light/dark color theme to the settings view.
-* [v] Allow different language options.
+* [ ] Add a light/dark color theme to the settings view.
+* [ ] Allow different language options.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='file:///Users/pohsianghuang/Desktop/tipsy.gif'' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
